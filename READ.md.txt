@@ -1,0 +1,36 @@
+# 🐢 Catch the Turtle Game
+
+A fun and simple reaction-based game made with Python Turtle graphics.  
+Click the turtles as they randomly appear before the time runs out!
+
+## 🎮 Game Features
+
+- Countdown timer (customizable by the player)
+- Score tracking
+- Welcome screen with time selection input
+- Built using the `turtle` module (no external libraries needed)
+
+## 🧠 About the Project
+
+This game was inspired by [Atıl Samancıoğlu's Catch the Turtle Project](https://github.com/atilsamancioglu/P09-CatchTheTurtle).  
+Some features and structure were adapted and improved based on his original idea. Thanks for the great resource!
+
+### 🔧 Improvements over the original:
+- Welcome screen with timer input using `screen.textinput()`
+- Dynamic countdown based on player's choice (10 to 60 seconds)
+- Code refactored for clarity and modularity
+
+## ▶️ How to Run
+
+1. Make sure Python is installed on your system.
+2. Clone this repository or download the `main.py` file.
+3. Run it using:
+
+```bash
+python main.py
+
+
+📄 License
+This project is open-source and built for educational purposes.
+Original base: © Atıl Samancıoğlu
+
